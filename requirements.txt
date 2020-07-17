@@ -1,0 +1,6 @@
+tensorflow 
+lxml
+matplotlib
+pillow
+packaging
+numpy
